@@ -1,4 +1,5 @@
-# aenemapyrepo
+# neckbeard-io-kodi-plugins-repo
+
 Kodi repo
 
-Updated script.tvskipintro & scrip.hideosd to support Kodi v19
+EDL detecting script.tvskipintro
